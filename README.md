@@ -1,2 +1,0 @@
-# nnmeteorcom
-nn.meteor.com
